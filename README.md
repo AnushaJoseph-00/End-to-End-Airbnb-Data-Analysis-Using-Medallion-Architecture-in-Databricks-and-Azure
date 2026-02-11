@@ -43,4 +43,5 @@ Initial commit: Airbnb project structure with Medallion Architecture
 ---
 
 ## Contact
-- [LinkedIn]((https://www.linkedin.com/in/celes-anusha-joseph-8237532b9/))  
+- [LinkedIn](https://www.linkedin.com/in/celes-anusha-joseph-8237532b9/)
+
